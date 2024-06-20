@@ -3,7 +3,6 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "AnimInstance.h"
 #include "DefaultAIAnimInstance.generated.h"
 
 /**
